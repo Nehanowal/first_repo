@@ -1,1 +1,1 @@
-this is index.js
+const name = "neha"
